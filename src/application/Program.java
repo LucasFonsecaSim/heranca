@@ -12,6 +12,7 @@ public class Program {
 
 	public static void main(String[] args) {
 
+		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		List<Employee> list = new ArrayList<>();
